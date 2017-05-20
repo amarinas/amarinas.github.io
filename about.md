@@ -134,7 +134,7 @@
          <div class="row">
 
               <div class="col-md-6 col-sm-12 col-xs-12">
-                <img class="img-responsive" src="assets/images/bg/me.jpg" draggable="false" alt="">
+                <img class="img-responsive" src="_site/assets/images/bg/me.jpg" draggable="false" alt="">
               </div>
 
               <div class="col-md-6 col-sm-12 col-xs-12">
@@ -180,7 +180,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 mix apps">
                         <div class="item">
                             <a href="images/portfolio/1.jpg" class="portfolio-popup" title="Project Title">
-                                <img src="assets/images/portfolio/1.jpg" alt="">
+                                <img src="_site/assets/images/portfolio/1.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -188,7 +188,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 mix mockups">
                         <div class="item">
                             <a href="images/portfolio/2.jpg" class="portfolio-popup" title="Project Title">
-                                <img src="assets/images/portfolio/2.jpg" alt="">
+                                <img src="_site/assets/images/portfolio/2.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -196,7 +196,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 mix apps">
                         <div class="item">
                             <a href="images/portfolio/3.jpg" class="portfolio-popup" title="Project Title">
-                                <img src="assets/images/portfolio/3.jpg" alt="">
+                                <img src="_site/assets/images/portfolio/3.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 mix mockups wordpress">
                         <div class="item">
                             <a href="images/portfolio/4.jpg" class="portfolio-popup" title="Project Title">
-                                <img src="assets/images/portfolio/4.jpg" alt="">
+                                <img src="_site/assets/images/portfolio/4.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -212,7 +212,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 mix wordpress apps">
                         <div class="item">
                             <a href="images/portfolio/5.jpg" class="portfolio-popup" title="Project Title">
-                                <img src="assets/images/portfolio/5.jpg" alt="">
+                                <img src="_site/assets/images/portfolio/5.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 mix apps mockups wordpress" title="Project Title">
                         <div class="item">
                             <a href="images/portfolio/6.jpg" class="portfolio-popup">
-                                <img src="assets/images/portfolio/6.jpg" alt="">
+                                <img src="_site/assets/images/portfolio/6.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -497,12 +497,12 @@
 
 
     <!-- All Javascript Plugins  -->
-    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
-    <script type="text/javascript" src="assets/js/plugin.js"></script>
+    <script type="text/javascript" src="_site/assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="_site/assets/js/plugin.js"></script>
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyC0HAKwKinpoFKNGUwRBgkrKhF-sIqFUNA"></script>
 
     <!-- Main Javascript File  -->
-    <script type="text/javascript" src="assets/js/scripts.js"></script>
+    <script type="text/javascript" src="_site/assets/js/scripts.js"></script>
     <script>
     $(document).ready(function(){
         $('[data-toggle="popover"]').popover();
